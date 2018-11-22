@@ -1,5 +1,5 @@
 $(function() {
     $('#btn1').click(function() {
-        alert('thanks for you help!');
+        $('.imgClass').css('display','block')
     });
 })

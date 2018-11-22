@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.btn1Class{
+	margin-left: 40%;
+	margin-top: 50px;
+ 	height : 30px;
+ 	width : 30px;
+ 	background-color: #00EC00;
+ }
+.imgClass{
+	margin-top: 50px;
+ 	height : 200px;
+ 	width : 300px;
+ 	display:none;
+}
